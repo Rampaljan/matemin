@@ -16,7 +16,7 @@ Zakres pracy:
 (todo)
 
 Autorzy:
-Adam Lewandowski
-Jan Rampalski
-Maciej Radlak
+Adam Lewandowski,
+Jan Rampalski,
+Maciej Radlak,
 Magda Kaczorowska
