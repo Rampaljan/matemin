@@ -16,4 +16,5 @@ Autorzy:
 Adam Lewandowski,
 Jan Rampalski,
 Maciej Radlak,
-Magda Kaczorowska
+Magda Kaczorowska,
+Adam Dąbrowski
