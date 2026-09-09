@@ -12,9 +12,6 @@ Z czasem planowane są kolejne funkcjonalności, tkaie jak implementacja wbudowa
 
 Baza pytań i rozwiązań budowana będzie z czasem, wraz z przygotowaniami autorów do matury, będą oni wrzucać swoje prace do zbioru wiedzy.
 
-Zakres pracy:
-(todo)
-
 Autorzy:
 Adam Lewandowski,
 Jan Rampalski,
