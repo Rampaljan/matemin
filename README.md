@@ -11,7 +11,7 @@ Do kategoryzowania pytania i kreowania zapytania do bazy posłużymy się prosty
 Z czasem planowane są kolejne funkcjonalności, tkaie jak implementacja wbudowanego kalkulatora do skomplikowanych operacji, bezpośrednio na stronie (Najprawdopodobniej darmowe API od Wolfram Alpha). Myślimy również o systemie rejestracji kont użytkowników, w celu oceny i komentowania poszczególnych rozwiązań.
 
 Baza pytań i rozwiązań budowana będzie z czasem, wraz z przygotowaniami autorów do matury, będą oni wrzucać swoje prace do zbioru wiedzy.
-
+https://drive.google.com/file/d/1ScW9B5Sli1s4CG4U5_8pRi2PPJIJ1d-7/view?usp=sharing
 Autorzy:
 Adam Lewandowski,
 Jan Rampalski,
