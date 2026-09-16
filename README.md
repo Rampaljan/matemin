@@ -1,4 +1,4 @@
-# MatemIn
+# Matemin
 
 ## Cel projektu
 Celem projektu jest zaprojektowanie i implementacja aplikacji wspierającej
