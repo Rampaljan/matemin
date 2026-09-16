@@ -1,24 +1,59 @@
-# matemin
-Projekt 2026
+# MatemIn
 
-Projekt luźno nawiązuje do strony matemaks.pl, zajmującej się przygotowaniem uczniów z całej polski do egzaminu maturalnego z matematyki.
+## Cel projektu
+Celem projektu jest zaprojektowanie i implementacja aplikacji wspierającej
+uczniów w przygotowaniach do matury z matematyki — bazy zadań maturalnych
+wraz z rozwiązaniami, wzorowanej na matemaks.pl.
 
-Nasze rozwiązanie skupiać się będzie na stworzeniu bazy danych z pytaniami i rozwiązaniami, podzielonymi na poszczególne dziedziny matematyki w zakresie maturalnym.
+Projekt obejmuje:
+- Bazę zadań maturalnych podzieloną na działy tematyczne
+- Możliwość wyszukiwania i przeglądania zadań wg kryteriów
+- Automatyczną kategoryzację zgłaszanych zadań przy pomocy modelu LLM
+- Kalkulator matematyczny oparty o Wolfram Alpha API
+- Konta użytkowników — komentowanie i ocenianie rozwiązań
+- Moderację treści dodawanych przez użytkowników
 
-Użytkownik będzie mógł przeglądać dostępną bazę wiedzy, a także uploadować na stronę własne znalezione w różnych zbiorach zadania, by znaleźć najbardziej odpowiadające zagadnieniu rozwiązania.
-Do kategoryzowania pytania i kreowania zapytania do bazy posłużymy się prostym modelem językowym (najprawdopodobniej jakimś tanim API).
+<!-- Po skonfigurowaniu pipeline'u CI/CD: dodać tu badge statusu -->
 
-Z czasem planowane są kolejne funkcjonalności, tkaie jak implementacja wbudowanego kalkulatora do skomplikowanych operacji, bezpośrednio na stronie (Najprawdopodobniej darmowe API od Wolfram Alpha). Myślimy również o systemie rejestracji kont użytkowników, w celu oceny i komentowania poszczególnych rozwiązań.
+## Zespół i podział ról
+<!-- TBD — podział ról do ustalenia -->
+- **Adam Lewandowski:**
+- **Jan Rampalski:**
+- **Maciej Radlak:**
+- **Magda Kaczorowska:**
+- **Adam Dąbrowski:**
 
-Baza pytań i rozwiązań budowana będzie z czasem, wraz z przygotowaniami autorów do matury, będą oni wrzucać swoje prace do zbioru wiedzy.
+## Dokumentacja projektu
+Szczegółowe informacje znajdują się w folderze `docs/`:
+- 📅 [Harmonogram prac](docs/harmonogram.md)
+- 📋 [Wymagania funkcjonalne i niefunkcjonalne](docs/wymagania.md)
+- 🗂️ [Diagramy (use case, klasy, sekwencji)](docs/diagrams/)
 
-diagram (dostępny również w plikach na github w formacie png)
-https://drive.google.com/file/d/1ScW9B5Sli1s4CG4U5_8pRi2PPJIJ1d-7/view?usp=sharing
+## Struktura repozytorium
+```
+matemin/
+├── docs/
+│   ├── diagrams/
+│   │   ├── use-case-diagram.drawio
+│   │   ├── use-case-diagram.png
+│   │   ├── class-diagram.drawio
+│   │   ├── class-diagram.png
+│   │   ├── sequence-diagram.drawio
+│   │   └── sequence-diagram.png
+│   ├── harmonogram.md
+│   └── wymagania.md
+└── README.md
+```
+<!-- Sekcja zostanie rozbudowana o katalogi kodu, testów i pipeline
+     po wyborze stacku technologicznego -->
 
+## Uruchomienie projektu
+<!-- TBD — do uzupełnienia po wyborze stacku technologicznego -->
 
-Autorzy:
-Adam Lewandowski,
-Jan Rampalski,
-Maciej Radlak,
-Magda Kaczorowska,
-Adam Dąbrowski
+## Pipeline
+<!-- TBD — do uzupełnienia po skonfigurowaniu CI/CD -->
+
+## Komunikacja
+- **Messenger:** Bieżąca komunikacja zespołu
+- **GitHub Issues:** Zarządzanie zadaniami
+- **Pull Requests:** Wprowadzanie zmian z obowiązkowym code review
