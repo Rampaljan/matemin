@@ -15,8 +15,7 @@ Projekt obejmuje:
 
 <!-- Po skonfigurowaniu pipeline'u CI/CD: dodać tu badge statusu -->
 
-## Zespół i podział ról
-<!-- TBD — podział ról do ustalenia -->
+## Zespół
 - **Adam Lewandowski:**
 - **Jan Rampalski:**
 - **Maciej Radlak:**
