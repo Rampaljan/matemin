@@ -39,3 +39,6 @@ Na podstawie diagramu przypadków użycia.
 - Bezpieczeństwo (hasła, dane osobowe uczniów):
 - Dostępność / responsywność (urządzenia mobilne):
 - Skalowalność bazy zadań:
+
+## Planowane działania
+- OCR (automatyczne wykrywanie obliczeń wykonanych ręcznie przez użytkownika)
